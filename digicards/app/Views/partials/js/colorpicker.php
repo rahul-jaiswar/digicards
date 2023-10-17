@@ -1,0 +1,2 @@
+<script src="<?=site_url('public/assets/libs/spectrum-colorpicker2/spectrum.min.js')?>"></script>
+<script src="<?=site_url('public/assets/libs/bootstrap-touchspin/jquery.bootstrap-touchspin.min.js')?>"></script>

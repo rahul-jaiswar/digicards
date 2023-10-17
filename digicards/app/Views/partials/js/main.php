@@ -1,0 +1,1 @@
+<script src="<?=site_url('public/assets/js/app.js')?>"></script>
